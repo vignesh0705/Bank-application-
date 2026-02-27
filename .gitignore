@@ -1,0 +1,4 @@
+bin/
+*.class
+mysql-connector-*.jar
+mysql-connector-j-*/
